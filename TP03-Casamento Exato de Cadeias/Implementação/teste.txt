@@ -1,0 +1,162 @@
+		Força Bruta
+	Texto Pequeno
+Padrão Pequeno
+ Comp   = 14836
+ Desloc = 14836
+ Tempo  = 0.085s
+Padrão Médio
+ Comp   = 14150
+ Desloc = 14150
+ Tempo  = 0.004s
+Padrão Grande
+ Comp   = 14738
+ Desloc = 14738
+ Tempo  = 0.009s
+
+	Texto Medio
+Padrão Pequeno
+ Comp   = 296080
+ Desloc = 296080
+ Tempo  = 1.086s
+Padrão Médio
+ Comp   = 284248
+ Desloc = 284248
+ Tempo  = 0.077s
+Padrão Grande
+ Comp   = 286016
+ Desloc = 286016
+ Tempo  = 0.079s
+
+	Texto Grande
+Padrão Pequeno
+ Comp   = 2964199
+ Desloc = 2964199
+ Tempo  = 5.735s
+Padrão Médio
+ Comp   = 2846019
+ Desloc = 2846019
+ Tempo  = 0.749s
+Padrão Grande
+ Comp   = 2849054
+ Desloc = 2849054
+ Tempo  = 0.732s
+
+====================================================
+		Boyer-Moore(BM)
+	Texto Pequeno
+Padrão Pequeno
+ Comp   = 290 
+ Desloc = 3135
+ Tempo  = 0.031s
+Padrão Médio
+ Comp   = 137 
+ Desloc = 836
+ Tempo  = 0.006s
+Padrão Grande
+ Comp   = 1265
+ Desloc = 547
+ Tempo  = 0.010s
+
+	Texto Medio
+Padrão Pequeno
+ Comp   = 5735
+ Desloc = 62838
+ Tempo  = 0.553s
+Padrão Médio
+ Comp   = 2930
+ Desloc = 16760
+ Tempo  = 0.084s
+Padrão Grande
+ Comp   = 13697
+ Desloc = 11892
+ Tempo  = 0.085s
+
+	Texto Grande
+Padrão Pequeno
+ Comp   = 57636
+ Desloc = 629526
+ Tempo  = 5.705s
+Padrão Médio
+ Comp   = 29224
+ Desloc = 168148
+ Tempo  = 0.720s
+Padrão Grande
+ Comp   = 101613
+ Desloc = 114067
+ Tempo  = 0.694s
+
+====================================================
+		Boyer-Moore-Horspool-Sunday(BMHS)
+		Texto Pequeno
+Padrão Pequeno
+ Comp   = 368
+ Desloc = 2615
+ Tempo  = 0.035s
+Padrão Médio
+ Comp   = 183
+ Desloc = 791
+ Tempo  = 0.003s
+Padrão Grande
+ Comp   = 1042
+ Desloc = 437
+ Tempo  = 0.005s
+
+	Texto Medio
+Padrão Pequeno
+ Comp   = 5618
+ Desloc = 52737
+ Tempo  = 0.278s
+Padrão Médio
+ Comp   = 3806
+ Desloc = 15441
+ Tempo  = 0.078s
+Padrão Grande
+ Comp   = 10027
+ Desloc = 9774
+ Tempo  = 0.085s
+
+	Texto Grande
+Padrão Pequeno
+ Comp   = 73652
+ Desloc = 523207
+ Tempo  = 5.701s
+Padrão Médio
+ Comp   = 37751
+ Desloc = 155108
+ Tempo  = 0.717s
+Padrão Grande
+ Comp   = 94493
+ Desloc = 97099
+ Tempo  = 0.716s
+
+====================================================
+		Shift-And Exato
+		Texto Pequeno
+Padrão Pequeno
+ Comp   = 13647
+ Desloc = 13647
+ Tempo  = 0.025s
+Padrão Médio
+ Comp   = 13647
+ Desloc = 13647
+ Tempo  = 0.001s
+
+	Texto Medio
+Padrão Pequeno
+ Comp   = 272614
+ Desloc = 272614
+ Tempo  = 0.538s
+Padrão Médio
+ Comp   = 272614
+ Desloc = 272614
+ Tempo  = 0.210s
+
+	Texto Grande
+Padrão Pequeno
+ Comp   = 2728372
+ Desloc = 2728372
+ Tempo  = 5.769s
+Padrão Médio
+ Comp   = 2728372
+ Desloc = 2728372
+ Tempo  = 2.165s

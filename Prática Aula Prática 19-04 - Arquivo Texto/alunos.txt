@@ -1,0 +1,5 @@
+00001 Joao da Silva 9.5 5.8 7.2 04
+00002 Maria Souza 7.1 7.3 8.4 02
+00003 Carlos Luz 5.2 4.1 3.0 14
+00004 Felipe Fontenele 9.6 9.4 9.3 01
+00005 Paulo Pedras 8.0 5.6 8.4 20

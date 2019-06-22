@@ -1,0 +1,65 @@
+10
+1
+1
+123
+felipe fontenele
+rua otario
+fonte
+45
+1
+456
+valeria sousa
+rua nao
+desculpa
+69
+6
+2
+1
+9
+sao paulo
+brasil
+2
+80
+1
+8
+bh
+brasil
+1
+75
+1
+7
+tokio
+japao
+2
+15
+6
+3
+1
+1
+9
+25
+10
+8
+11
+11
+7
+30
+11
+2
+123
+456
+6
+1
+123
+4
+1
+5
+1
+123
+4
+1
+3
+1
+19
+9
+4

@@ -1,0 +1,10 @@
+00001 JOSE DA SILVA  C
+00002 MARIA SOUZA  B
+00003 CARLOS LUZ  R
+00004 Felipe Fontenele  A
+00005 Lucas Almeida  B
+00006 Artur Amorim  C
+00007 Mateus Lopes  C
+00008 Bruno Pedras  C
+00009 Hiago Trindade  C
+00010 Lucas Mateus  C
